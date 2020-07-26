@@ -1,0 +1,13 @@
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.Test.37Degree\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.Test.37Degree\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.Test.37Degree\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.Test.37Degree\bin\Debug\netcoreapp2.1\Strateq.Test.37Degree.deps.json
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.Test.37Degree\bin\Debug\netcoreapp2.1\Strateq.Test.37Degree.runtimeconfig.json
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.Test.37Degree\bin\Debug\netcoreapp2.1\Strateq.Test.37Degree.runtimeconfig.dev.json
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.Test.37Degree\bin\Debug\netcoreapp2.1\Strateq.Test.37Degree.dll
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.Test.37Degree\bin\Debug\netcoreapp2.1\Strateq.Test.37Degree.pdb
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.Test.37Degree\obj\Debug\netcoreapp2.1\Strateq.Test.37Degree.csproj.CoreCompileInputs.cache
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.Test.37Degree\obj\Debug\netcoreapp2.1\Strateq.Test.37Degree.AssemblyInfoInputs.cache
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.Test.37Degree\obj\Debug\netcoreapp2.1\Strateq.Test.37Degree.AssemblyInfo.cs
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.Test.37Degree\obj\Debug\netcoreapp2.1\Strateq.Test.37Degree.dll
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.Test.37Degree\obj\Debug\netcoreapp2.1\Strateq.Test.37Degree.pdb

@@ -1,0 +1,21 @@
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.ConsoleApp\bin\Debug\netcoreapp2.1\Strateq.ConsoleApp.deps.json
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.ConsoleApp\bin\Debug\netcoreapp2.1\Strateq.ConsoleApp.runtimeconfig.json
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.ConsoleApp\bin\Debug\netcoreapp2.1\Strateq.ConsoleApp.runtimeconfig.dev.json
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.ConsoleApp\bin\Debug\netcoreapp2.1\Strateq.ConsoleApp.dll
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.ConsoleApp\bin\Debug\netcoreapp2.1\Strateq.ConsoleApp.pdb
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.ConsoleApp\obj\Debug\netcoreapp2.1\Strateq.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.ConsoleApp\obj\Debug\netcoreapp2.1\Strateq.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.ConsoleApp\obj\Debug\netcoreapp2.1\Strateq.ConsoleApp.AssemblyInfo.cs
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.ConsoleApp\obj\Debug\netcoreapp2.1\Strateq.ConsoleApp.dll
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.ConsoleApp\obj\Debug\netcoreapp2.1\Strateq.ConsoleApp.pdb
+C:\Users\miki\Desktop\strateq-test-framework-master\src\Strateq.ConsoleApp\obj\Debug\netcoreapp2.1\Strateq.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\miki\Desktop\New folder\strateq-test-framework-master\src\Strateq.ConsoleApp\bin\Debug\netcoreapp2.1\Strateq.ConsoleApp.deps.json
+C:\Users\miki\Desktop\New folder\strateq-test-framework-master\src\Strateq.ConsoleApp\bin\Debug\netcoreapp2.1\Strateq.ConsoleApp.runtimeconfig.json
+C:\Users\miki\Desktop\New folder\strateq-test-framework-master\src\Strateq.ConsoleApp\bin\Debug\netcoreapp2.1\Strateq.ConsoleApp.runtimeconfig.dev.json
+C:\Users\miki\Desktop\New folder\strateq-test-framework-master\src\Strateq.ConsoleApp\bin\Debug\netcoreapp2.1\Strateq.ConsoleApp.dll
+C:\Users\miki\Desktop\New folder\strateq-test-framework-master\src\Strateq.ConsoleApp\bin\Debug\netcoreapp2.1\Strateq.ConsoleApp.pdb
+C:\Users\miki\Desktop\New folder\strateq-test-framework-master\src\Strateq.ConsoleApp\obj\Debug\netcoreapp2.1\Strateq.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\miki\Desktop\New folder\strateq-test-framework-master\src\Strateq.ConsoleApp\obj\Debug\netcoreapp2.1\Strateq.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\miki\Desktop\New folder\strateq-test-framework-master\src\Strateq.ConsoleApp\obj\Debug\netcoreapp2.1\Strateq.ConsoleApp.AssemblyInfo.cs
+C:\Users\miki\Desktop\New folder\strateq-test-framework-master\src\Strateq.ConsoleApp\obj\Debug\netcoreapp2.1\Strateq.ConsoleApp.dll
+C:\Users\miki\Desktop\New folder\strateq-test-framework-master\src\Strateq.ConsoleApp\obj\Debug\netcoreapp2.1\Strateq.ConsoleApp.pdb

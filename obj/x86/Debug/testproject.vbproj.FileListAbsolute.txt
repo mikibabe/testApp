@@ -1,0 +1,2 @@
+C:\Users\miki\Desktop\strateq-test-framework-master\obj\x86\Debug\testproject.vbprojAssemblyReference.cache
+C:\Users\miki\Desktop\strateq-test-framework-master\obj\x86\Debug\testproject.vbproj.CoreCompileInputs.cache
